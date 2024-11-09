@@ -1,4 +1,4 @@
-Real-Time Object Detection with YOLO and OpenCV
+#Real-Time Object Detection with YOLO and OpenCV
 This project performs real-time object detection using the YOLO (You Only Look Once) model with OpenCV's dnn module. It captures video from a webcam, detects objects within each frame, and highlights them with bounding boxes and confidence scores.
 
 Project Overview
