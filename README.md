@@ -26,7 +26,7 @@ cd object-detection
 pip install opencv-python numpy
 ```
 ## Download YOLOv3 model files:
-- YOLOv3 weights
+- [YOLOv3 weights](https://pjreddie.com/media/files/yolov3.weights)
 - [YOLOv3 configuration](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/cfg/yolov3.cfg)
 - [COCO names](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/data/coco.names)
 - Place the downloaded files (yolov3.weights, yolov3.cfg, coco.names) in the same directory as the project file (ObjDet.py).
