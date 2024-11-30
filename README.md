@@ -27,8 +27,8 @@ pip install opencv-python numpy
 ```
 ## Download YOLOv3 model files:
 - YOLOv3 weights
-- YOLOv3 configuration
-- COCO names (class labels)
+- [YOLOv3 configuration](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/cfg/yolov3.cfg)
+- [COCO names]([class labels](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/data/coco.names))
 Place the downloaded files (yolov3.weights, yolov3.cfg, coco.names) in the same directory as the project file (ObjDet.py).
 
 # Usage
@@ -50,5 +50,5 @@ Detected objects in real-time video feed are highlighted with bounding boxes, an
 - Ensure the model files are placed in the same directory as the script to avoid file path issues.
 
 # References
-YOLO: You Only Look Once
-OpenCV DNN Module
+[YOLO: You Only Look Once](https://pjreddie.com/darknet/yolo/)
+[OpenCV DNN Module]([https://pjreddie.com/darknet/yolo/](https://modelzoo.co/model/keras-yolov3))
