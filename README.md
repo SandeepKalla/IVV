@@ -28,8 +28,8 @@ pip install opencv-python numpy
 ## Download YOLOv3 model files:
 - YOLOv3 weights
 - [YOLOv3 configuration](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/cfg/yolov3.cfg)
-- [COCO names]([class labels](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/data/coco.names))
-Place the downloaded files (yolov3.weights, yolov3.cfg, coco.names) in the same directory as the project file (ObjDet.py).
+- [COCO names](https://raw.githubusercontent.com/pjreddie/darknet/refs/heads/master/data/coco.names)
+- Place the downloaded files (yolov3.weights, yolov3.cfg, coco.names) in the same directory as the project file (ObjDet.py).
 
 # Usage
 Run the object detection script:
@@ -42,7 +42,7 @@ python ObjDet.py
 - Drawing Bounding Boxes: For each detected object with a confidence score above the threshold, a bounding box and label are displayed.
 
 ## Example Output
-Detected objects in real-time video feed are highlighted with bounding boxes, and each object has a label and confidence percentage.
+- Detected objects in real-time video feed are highlighted with bounding boxes, and each object has a label and confidence percentage.
 ![Screenshot](https://github.com/SandeepKalla/object-detection/blob/main/Sample.png?raw=true)
 
 # Notes
@@ -51,4 +51,4 @@ Detected objects in real-time video feed are highlighted with bounding boxes, an
 
 # References
 [YOLO: You Only Look Once](https://pjreddie.com/darknet/yolo/)
-[OpenCV DNN Module]([https://pjreddie.com/darknet/yolo/](https://modelzoo.co/model/keras-yolov3))
+[OpenCV DNN Module](https://modelzoo.co/model/keras-yolov3)
