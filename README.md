@@ -6,9 +6,9 @@ This project performs real-time object detection using the YOLO (You Only Look O
 Using YOLOv3, this project detects multiple object classes in real time, leveraging a pre-trained model trained on the COCO dataset. This project showcases basic object detection capabilities, applying bounding boxes and labels to detected objects within each video frame.
 
 ## Features
--Real-time detection of 80 classes (from the COCO dataset) using YOLOv3.
--Displays bounding boxes and confidence scores for each detected object.
--Configurable to run on a webcam feed or on pre-recorded videos.
+- Real-time detection of 80 classes (from the COCO dataset) using YOLOv3.
+- Displays bounding boxes and confidence scores for each detected object.
+- Configurable to run on a webcam feed or on pre-recorded videos.
 
 ## Requirements
 Python 3.x
