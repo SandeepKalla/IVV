@@ -50,5 +50,5 @@ python ObjDet.py
 - Ensure the model files are placed in the same directory as the script to avoid file path issues.
 
 # References
-[YOLO: You Only Look Once](https://pjreddie.com/darknet/yolo/)
-[OpenCV DNN Module](https://modelzoo.co/model/keras-yolov3)
+- [YOLO: You Only Look Once](https://pjreddie.com/darknet/yolo/)
+- [OpenCV DNN Module](https://modelzoo.co/model/keras-yolov3)
