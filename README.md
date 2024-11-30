@@ -43,6 +43,7 @@ python ObjDet.py
 
 ## Example Output
 Detected objects in real-time video feed are highlighted with bounding boxes, and each object has a label and confidence percentage.
+![Screenshot](https://github.com/SandeepKalla/object-detection/blob/main/Sample.png?raw=true)
 
 # Notes
 - Make sure to adjust the confidence threshold as needed for better performance.
