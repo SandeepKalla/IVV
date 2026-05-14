@@ -6,9 +6,9 @@ This project evolved from a basic object detection prototype into a scalable com
 
 ---
 
-# 🚀 Features
+#  Features
 
-## ✅ Real-Time Vehicle Detection
+## Real-Time Vehicle Detection
 
 * Detects:
 
@@ -18,25 +18,25 @@ This project evolved from a basic object detection prototype into a scalable com
   * Motorbikes
 * Uses YOLO-based deep learning inference.
 
-## ✅ Upload Custom Traffic Videos
+## Upload Custom Traffic Videos
 
 * Upload any road or traffic video directly through the Streamlit web interface.
 * No webcam dependency required.
 
-## ✅ Interactive Web Dashboard
+## Interactive Web Dashboard
 
 * Built using Streamlit.
 * Modern dark-themed UI.
 * Simple and responsive workflow.
 
-## ✅ Traffic Analytics
+## Traffic Analytics
 
 * Real-time vehicle counting.
 * Bounding box visualization.
 * Confidence score display.
 * Frame-by-frame traffic analysis.
 
-## ✅ Modular Architecture
+## Modular Architecture
 
 Project structured for future upgrades including:
 
@@ -48,7 +48,7 @@ Project structured for future upgrades including:
 
 ---
 
-# 🧠 Tech Stack
+# Tech Stack
 
 ## AI / Computer Vision
 
@@ -177,7 +177,7 @@ http://localhost:8501
 
 ---
 
-# 🛣️ How It Works
+# How It Works
 
 ## Step 1
 
@@ -283,13 +283,13 @@ https://github.com/SandeepKalla
 
 ---
 
-# 📜 License
+# License
 
 This project is licensed under the MIT License.
 
 ---
 
-# ⭐ Acknowledgements
+# Acknowledgements
 
 * YOLO — You Only Look Once
 * OpenCV
